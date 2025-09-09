@@ -1,9 +1,9 @@
-# Task A: 
+# Task A
 Use the provided cleaning code (or notebook) to generate 'inventory_dataset.csv'
 Notes:
 - Performs stronger normalization (grade tightening, finish extraction from description, numeric coercions) and adds a `Source` column.
 
-# Task B:
+# Task B
 
 This project implements a pipeline for **Scenario B**: matching RFQs based on grades, dimensions, and categorical properties.
 
