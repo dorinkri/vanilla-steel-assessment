@@ -1,4 +1,5 @@
-# Task A: Use the provided cleaning code (or notebook) to generate 'inventory_dataset.csv'
+# Task A: 
+Use the provided cleaning code (or notebook) to generate 'inventory_dataset.csv'
 Notes:
 - Performs stronger normalization (grade tightening, finish extraction from description, numeric coercions) and adds a `Source` column.
 
